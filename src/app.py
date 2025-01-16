@@ -14,7 +14,7 @@ from sqlalchemy import create_engine, exc, text
 import pymysql
 import time
 
-OPENAI_API_KEY = st.secrets["openai"]["OPENAI_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 st.set_page_config(page_title="SQL and Python Agent")
 
 # 1. Initialize session state.
