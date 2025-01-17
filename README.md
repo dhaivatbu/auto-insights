@@ -18,5 +18,4 @@ The app is hosted on streamlit with the url -> https://dbu-auto-insights.streaml
 
 Below is an example of the usage on a publickly available ecommerce dataset.
 
-[Example]
-(./images/pie-chart.png)
+![Example](./images/pie-chart.png)
